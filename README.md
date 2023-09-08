@@ -11,7 +11,7 @@ create a docker image to push it>
 Then create a GKE cluster with an exposed load balancer so that the 
 website can be publicly accessible using the load balancers external IP.
 
-### Resources
+### Resources used:
 
 - [How to remove Docker 
 images](https://www.freecodecamp.org/news/how-to-remove-images-in-docker/#:~:text=By%20running%20simple%20command%20docker,all%20the%20images%20and%20check.)
